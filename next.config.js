@@ -4,6 +4,7 @@ module.exports = {
             'www.bbconsult.co.uk',
             'links.papareact.com',
             'images.unsplash.com',
+            'avatars.dicebear.com',
         ],
     }
 }

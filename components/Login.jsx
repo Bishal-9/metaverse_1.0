@@ -20,7 +20,7 @@ function Login() {
 
                 {/* Login Button */}
                 <button
-                    className='bg-yellow-300 rounded-lg p-5 font-bold'
+                    className='bg-[#bbe1fa] rounded-lg p-5 font-bold text-[#0F4C75]'
                     onClick={authenticate}
                 >
                     Login to Metaverse
